@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+
+
+    </style>
+
+
+</head>
+
+<body>
+
+    <div class="container-fluid">
+
+        <div class="row">
+            <div class="col-sm-12 bg-dark"></div>
+
+        </div>
+
+
+        <div class="row">
+            <div class="col-sm-4"></div>
+            <div class="col-sm-4 bg-primary text-light font-weight-bold ">
+                <i class="fa fa-telegram" style="font-size:36px "></i>
+
+                Telegram
+                <div class="float-lg-right ">
+                    <p> <i class="fa fa-search " aria-hidden="true"></i></p>
+                </div>
+            </div>
+            <div class="col-sm-4"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-4"></div>
+            
+            <div class="col-sm-4 justify-content-center d-flex flex-column  ">
+                <img src="c2.jpg" class="img-fluid " alt="responsive">
+            </div>
+            <div class="col-sm-4"></div>
+
+
+        </div>
+
+
+        <div class="row border">
+            <div class="col-sm-4"></div>
+            <div class="col-sm-4 bg-light text-light">
+                <i class="fa fa-smile-o" aria-hidden="true" style="color: black; "></i>
+                <input type="text" id="inputId1" placeholder="Message">
+                <div class="float-lg-right">
+
+                    <i class="fa fa-paperclip" aria-hidden="true" style="color: black;"></i>
+
+
+                </div>
+            </div>
+            <div class=" col-sm-4"></div>
+        </div>
+    </div>
+</body>
+
+</html>
