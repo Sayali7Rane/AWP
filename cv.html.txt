@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Document</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+        body {
+            margin: 0px;
+            padding: 0px;
+        }
+
+        .page {
+            display: flex;
+
+
+        }
+
+        .col1 {
+            background-color: cadetblue;
+            width: 30vw;
+            height: 100vh;
+
+        }
+
+        .col2 {
+            background-color: cornsilk;
+            width: 70vw;
+            height: 100vh;
+        }
+
+        .R1 {
+
+            background-color: white;
+            width: 70vw;
+            height: 16vh;
+            font-family: sans-serif;
+            font-size: 10vh;
+            color: black;
+            text-align: center;
+
+
+        }
+
+        p {
+            font-size: 12px;
+            text-align: left;
+
+        }
+
+        h6 {
+            font-size: 20px;
+            text-align: left;
+            margin: 0px;
+        }
+
+
+
+
+        img {
+            width: 30vh;
+            text-align: center;
+            height: 20vh;
+            border-radius: 160px;
+            margin-left: auto;
+            margin-right: auto;
+            display: block;
+
+
+        }
+
+        .R2 {
+            height: 18vh;
+            width: 30vw;
+
+        }
+
+        .R3 {
+            height: 20vh;
+            width: 30vw;
+
+
+        }
+
+        .R4 {
+
+            height: 8vh;
+            width: 30vw;
+
+        }
+
+        .R6 {
+
+            background-color: rgb(192, 86, 139);
+            width: 70vw;
+            height: 20vh;
+            color: white;
+            font-family: sans-serif;
+            font-size: 10vh;
+            padding: 20px;
+            text-align: left;
+
+
+        }
+
+        .R5 {
+            width: 70vw;
+            text-decoration: none;
+
+        }
+    </style>
+
+</head>
+
+<body>
+    <div class="page">
+        <div class="col1">
+            <div class="R2">
+                <img src="c1.png" alt="c1.png">
+
+            </div>
+            <div class="R4">
+                <h6>Born</h6>
+                13 JULY 1997
+
+
+
+            </div>
+
+            <div class="R3">
+                <i class="fa fa-mobile fa-2x" aria-hidden="true"></i>
+                <h6>Contact</h6>
+                7507519785 , 9356126844
+
+
+
+
+            </div>
+
+            <div class="R3">
+                <i class="fa fa-language fa-2x" aria-hidden="true"></i>
+
+                <h6>Language</h6>
+                Marathi, Hindi , English , Sanskrit.
+
+            </div>
+
+            <div class="R3">
+                <i class="fa fa-heart fa-2x" aria-hidden="true"></i>
+                <h6>Interest</h6>
+                Swimming, Cooking ,Drawing.
+
+
+
+
+            </div>
+
+
+            <div class="R3">
+                <i class="fa fa-plane fa-2x" aria-hidden="true"></i>
+                <h6>Travel</h6>
+                I like to travel and like to see a beautiful nature.
+
+
+
+
+            </div>
+
+
+
+
+
+        </div>
+        <div class="col2">
+            <div class=" R6">Sayali Rane .
+                <div class="R5">
+
+                </div>
+
+            </div>
+
+            <div class=" R1">
+                <h6> ABOUT : </h6>
+                <p>I am Sayali Rane. I am from Nashik maharashtra.There are 4 members in my family.My father is a
+                    teacher and my mother is a homemaker. I am graduated from K.K. Wagh college of engineering.
+                    My stream is Electonics and telecommunication.
+                </p>
+            </div>
+            <div class=" R1">
+                <h6> PROJECTS : </h6>
+                <p>
+
+                    1)Major Project Title: IOT based Air pollution monitoring system.<br>
+                    2)Minor Project Title: Smart coin based battery charger system.
+
+                </p>
+
+
+
+            </div>
+            <div class=" R1">
+                <h6>ACHIEVEMENT : </h6>
+                <p>
+                    1) I have got 4th and 7th standard schlorships at district level.<br>
+                    2)1st prize in essay competition at panchavati library .<br>
+                    3)GATE SCORE :40
+                </p>
+
+            </div>
+            <div class=" R1">
+                <h6> TRAINING AND CERTIFICATES : </h6>
+                <p>
+                    1)13 Days TRAINING at “HAL(Hindustan aeronautics Limited)”.<br>
+                    2)17Days INTERNSHIP at “WINNER ELECTRONICS PVT LTD”-This is the company at MIDC Nashik, which
+                    manufactures panels.In this training I have made Temperature controllers ,relays.
+
+
+
+
+            </div>
+
+
+
+
+
+
+        </div>
+
+    </div>
+
+
+</body>
+
+</html>
